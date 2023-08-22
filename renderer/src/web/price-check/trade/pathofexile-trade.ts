@@ -522,7 +522,7 @@ export function createTradeRequest (filters: ItemFilters, stats: StatFilter[], i
     }
   }
 
-  //todo something here
+  // todo something here
   return body
 }
 
